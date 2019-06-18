@@ -41,7 +41,7 @@ Delani studio website is a design practice website that offers a full range of s
 ### Live to Link Delani studio to the Website:
 * [Live Link]
 
-* [Git hub link](https://georgekarani.github.io/delani-studio-website/.)
+* [Git hub link]( https://jeremywambugu.github.io/Delani/)
 
 
 ### Contact information
