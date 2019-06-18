@@ -116,7 +116,7 @@ body::-webkit-scrollbar {
     bottom: 5vh;
     border-radius: 30px;
     box-shadow: 0 0 20px #000;
-    animation: bounce 0.7s linear infinite;
+
   }
   .mouse:hover{
     animation-play-state: paused;
