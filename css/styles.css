@@ -119,11 +119,7 @@ body::-webkit-scrollbar {
 
   }
   }
-  @keyframes bounce{
-    0%{bottom: 2vh;box-shadow: 0 0 20px rgb(255, 136, 0);background: rgba(255, 136, 0, 0.486);}
-    40%{bottom: 10vh;}
-    70%{bottom: 8vh;}
-  }
+ 
  
   #aboutUs{
     padding: 50px 10%;
