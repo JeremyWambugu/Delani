@@ -33,7 +33,7 @@ body::-webkit-scrollbar {
   
  
   .slide_in{
-    transform: translateY(150px);
+    transform: rotateZ(150px;)
     animation: slide_in 1.8s ease forwads;
   }
   .slide_in:nth-child(odd){
