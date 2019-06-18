@@ -183,7 +183,7 @@ body::-webkit-scrollbar {
     height: 100%;
     cursor: pointer;
     z-index: 30;
-    transform: translateX(-102%) rotate(45deg);
+    transform: translatey(-102%) rotate(180deg);
     transition: all 0.3s ease;
     border: 2px solid rgb(255, 255, 255);
   }
