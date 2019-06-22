@@ -45,5 +45,6 @@ Delani studio website is a design practice website that offers a full range of s
 
 
 ### Contact information
-* In case of any issues contact me at WAMBUGUJEREMY@GMAIL.COM
+* In case of any issues contact me at wambugujeremy@gmail.com
+
 
